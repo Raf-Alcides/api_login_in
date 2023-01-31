@@ -1,0 +1,11 @@
+{
+    "users": [],
+    "products": [
+        {
+            "id": 1,
+            "name": "teste",
+            "description": "teste",
+            "image": "https://assets.unileversolutions.com/recipes-v2/106684.jpg?imwidth=800"
+        }
+    ]  
+}
